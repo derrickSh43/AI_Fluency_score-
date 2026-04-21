@@ -1,4 +1,4 @@
-# AI Fluency Assessment Report — Derrick Weil
+# AI Fluency Assessment Report —
 
 This report outlines the demonstrated competencies and technical maturity of Derrick Weil in the domains of AI-assisted engineering, infrastructure automation, and governance-first platform design.
 
